@@ -1,0 +1,14 @@
+﻿web类
+1. bert@hust_IS
+2. 醉了
+3. ctf_is_so_easy
+4. JayZhou_and_JarvanIV
+
+加解密:
+sec1: donotgoafterclass
+sec2: I am so handsome
+sec4: freedom
+
+逆向类：
+revese_python: hello bert@HUST_IS
+revese_java: java_not_so_easy_as_python
